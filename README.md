@@ -3,5 +3,5 @@
 </p>
 <hr>
 <p align="center">
-  <img src="./snake.svg" width="200px" />
+  <img src="./snake.svg" width="100px" />
 </p>
